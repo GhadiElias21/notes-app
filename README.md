@@ -9,7 +9,7 @@ react-select<br/>
 uuid<br/>
 
 
-[live preview](notes-app2001.netlify.app) 
+[live preview](https://notes-app2001.netlify.app/) 
 
 ![image](https://user-images.githubusercontent.com/92365477/226994569-3f2e3519-21d0-4870-bd83-d754e001d53c.png)
 
